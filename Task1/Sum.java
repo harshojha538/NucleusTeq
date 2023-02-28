@@ -8,7 +8,7 @@ public class Sum {
         System.out.println("Enter second Number:-");
         float b = sc.nextFloat();
         // System.out.println("Enter third Number:-");
-        System.out.println(a+b);
+        System.out.println("Total "+a+b);
 
     }
 }
