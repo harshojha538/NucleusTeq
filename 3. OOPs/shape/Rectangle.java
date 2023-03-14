@@ -19,4 +19,7 @@ public class Rectangle extends Shape {
     public double area() {
         return length * width;
     }
+    public static void main(String[] args) {
+        
+    }
 }

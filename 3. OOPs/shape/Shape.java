@@ -2,7 +2,7 @@ package shape;
 
 public abstract class Shape {
 
-    public abstract double perimeter();
+    abstract double perimeter();
     
-    public abstract double area();
+    abstract double area();
 }
