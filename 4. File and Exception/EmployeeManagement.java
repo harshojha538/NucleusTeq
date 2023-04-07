@@ -83,7 +83,6 @@ public class EmployeeManagement {
         } while (choice == 'Y' || choice == 'y');
 
         
-
         displayAllEmployees(employees);
 
     }
